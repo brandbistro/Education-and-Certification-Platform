@@ -7,3 +7,5 @@ O
 tests/course-management.test.ts,5/6/565eb9e860f3bfaeb889e52676d8ce1d68babd06
 I
 contracts/assessment.clar,5/0/506b90758af1168da9fc3ee7eea18c905410f87b
+H
+tests/assessment.test.ts,0/7/0753f2779300d394ee37f1c849d2913424830a2a
