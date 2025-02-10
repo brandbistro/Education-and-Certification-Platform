@@ -55,6 +55,11 @@ plan:
             path: contracts/assessment.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: certification-issuance
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/certification-issuance.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: course-management
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/course-management.clar

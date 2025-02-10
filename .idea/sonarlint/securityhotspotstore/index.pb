@@ -11,3 +11,5 @@ H
 tests/assessment.test.ts,0/7/0753f2779300d394ee37f1c849d2913424830a2a
 U
 %contracts/certification-issuance.clar,b/5/b5bd6ab4abc9c3b6e520c76bc76d5ab1614723fc
+T
+$tests/certification-issuance.test.ts,5/e/5e47075d61e53c55c682e3b27cd44e9b965168e1
