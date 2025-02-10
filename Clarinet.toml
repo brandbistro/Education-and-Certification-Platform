@@ -10,6 +10,11 @@ path = 'contracts/assessment.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.certification-issuance]
+path = 'contracts/certification-issuance.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.course-management]
 path = 'contracts/course-management.clar'
 clarity_version = 2
