@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+P
+ contracts/course-management.clar,3/c/3c7b6d766be62be8be25122d6d0be3cec0e0e592
+O
+tests/course-management.test.ts,5/6/565eb9e860f3bfaeb889e52676d8ce1d68babd06
+I
+contracts/assessment.clar,5/0/506b90758af1168da9fc3ee7eea18c905410f87b
+H
+tests/assessment.test.ts,0/7/0753f2779300d394ee37f1c849d2913424830a2a
+U
+%contracts/certification-issuance.clar,b/5/b5bd6ab4abc9c3b6e520c76bc76d5ab1614723fc
+T
+$tests/certification-issuance.test.ts,5/e/5e47075d61e53c55c682e3b27cd44e9b965168e1
+P
+ contracts/skill-endorsement.clar,8/f/8f72f28a88ecce0e6aa9f05910b553425cf56600
+O
+tests/skill-endorsement.test.ts,7/f/7f0439c19ec9aeddf22168a58bd62aef30496e7a
