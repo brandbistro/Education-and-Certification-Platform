@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/course-management.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.skill-endorsement]
+path = 'contracts/skill-endorsement.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

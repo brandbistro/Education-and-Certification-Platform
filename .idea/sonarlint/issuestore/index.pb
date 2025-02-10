@@ -13,3 +13,5 @@ U
 %contracts/certification-issuance.clar,b/5/b5bd6ab4abc9c3b6e520c76bc76d5ab1614723fc
 T
 $tests/certification-issuance.test.ts,5/e/5e47075d61e53c55c682e3b27cd44e9b965168e1
+P
+ contracts/skill-endorsement.clar,8/f/8f72f28a88ecce0e6aa9f05910b553425cf56600
